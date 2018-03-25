@@ -9,8 +9,7 @@
 import UIKit
 
 
-/
-
+// Day la loc01 da sua
 enum ButtonType {
     case border
     case borderAndBackground
