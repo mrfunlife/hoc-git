@@ -20,6 +20,9 @@ enum ButtonType {
     case notSetting
 }
 
+// Day la phan sua cua loc2
+
+
 struct ButtonStruct {
     var defaultBorderColor: UIColor = GREEN_COLOR
     var selectedBorderColor: UIColor = GREEN_COLOR
