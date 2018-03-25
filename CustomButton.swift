@@ -38,6 +38,7 @@ struct ButtonStruct {
         self.type = type
         switch type {
         case .border:
+             defaultBorderColor = loc2
             defaultBorderColor = GRAY_COLOR
             defaultTextColor = UIColor(hexString: BLACK_COLOR)
             defaultBgColor = .clear
