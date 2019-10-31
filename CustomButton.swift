@@ -11,6 +11,7 @@ import UIKit
 
 // Day la loc01 da sua
 enum ButtonType {
+    //Sua nhes
     case border
     case borderAndBackground
     case background
