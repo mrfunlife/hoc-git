@@ -9,6 +9,8 @@
 import UIKit
 
 
+// Loc3 sua cho nay
+
 // Day la loc01 da sua
 enum ButtonType {
     //Sua nhes
